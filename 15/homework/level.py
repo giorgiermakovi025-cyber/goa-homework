@@ -1,0 +1,7 @@
+print(55+777)
+print(984-37)
+print(55*3)
+print(77/3)
+print(99**7)
+print(773//7)
+print(577%3)
